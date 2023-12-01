@@ -1,0 +1,4 @@
+inputName,address,city,state,zipCode,cardType,creditCardNumber,creditCardMonth,creditCardYear,nameOnCard,_token
+Felipe Braz Visa,Umuarama,Osasco,SP,visa,xxxxxxxxxxxx1111,11,2018,Felipe Visa,
+Felipe Braz Amex,Umuarama,Osasco,SP,amex,xxxxxxxxxxxx1111,11,2018,Felipe American Express,
+Felipe Braz Diners,Umuarama,Osasco,SP,dinersclub,xxxxxxxxxxxx1111,11,2018,Felipe Diner's Club,
